@@ -1,1 +1,1 @@
-This repo is for the development of a self-updating Python zipapp.
+This is a PoC for a self updating Python zipapp. It compares it's version againt the tag of the latest release in the repo. If there is a newer version available, it will download it and replace itself with the newer version.
