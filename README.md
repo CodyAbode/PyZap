@@ -1,0 +1,1 @@
+This repo is for the development of a self-updating Python zipapp.
